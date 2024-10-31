@@ -1,0 +1,10 @@
+config load "C:\Users\sitanan\Documents\RMX\Lab1\Potentiometer_test\RotaryPotentiometer\RotaryPotentiometer.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\sitanan\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait

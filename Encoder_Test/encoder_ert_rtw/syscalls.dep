@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/bright/Rmx/encoder/encoderr/STM32CubeIDE/Application/User/Core/syscalls.c
